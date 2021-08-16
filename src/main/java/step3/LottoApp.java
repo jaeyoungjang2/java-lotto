@@ -4,8 +4,6 @@ import step3.domain.*;
 import step3.view.InputView;
 import step3.view.ResultView;
 
-import java.util.List;
-
 public class LottoApp {
     public static void main(String[] args) {
         InputView inputView = new InputView();
